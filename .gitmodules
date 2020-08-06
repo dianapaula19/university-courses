@@ -1,0 +1,9 @@
+[submodule "data-structures-and-algorithms-course"]
+	path = data-structures-and-algorithms-course
+	url = https://github.com/dianapaula19/data-structures-and-algorithms-course
+[submodule "oop-course"]
+	path = oop-course
+	url = https://github.com/dianapaula19/oop-course
+[submodule "introduction-to-robotics-course"]
+	path = introduction-to-robotics-course
+	url = https://github.com/dianapaula19/introduction-to-robotics-course
