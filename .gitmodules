@@ -7,3 +7,6 @@
 [submodule "introduction-to-robotics-course"]
 	path = introduction-to-robotics-course
 	url = https://github.com/dianapaula19/introduction-to-robotics-course
+[submodule "hardware-modelling-course"]
+	path = hardware-modelling-course
+	url = https://github.com/dianapaula19/hardware-modelling-course
