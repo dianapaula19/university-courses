@@ -10,3 +10,6 @@
 [submodule "hardware-modelling-course"]
 	path = hardware-modelling-course
 	url = https://github.com/dianapaula19/hardware-modelling-course
+[submodule "operating-systems-course"]
+	path = operating-systems-course
+	url = https://github.com/dianapaula19/operating-systems-course
