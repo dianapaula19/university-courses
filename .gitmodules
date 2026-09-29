@@ -1,15 +1,20 @@
 [submodule "data-structures-and-algorithms-course"]
 	path = data-structures-and-algorithms-course
 	url = https://github.com/dianapaula19/data-structures-and-algorithms-course
+	branch = main
 [submodule "oop-course"]
 	path = oop-course
 	url = https://github.com/dianapaula19/oop-course
+	branch = main
 [submodule "introduction-to-robotics-course"]
 	path = introduction-to-robotics-course
 	url = https://github.com/dianapaula19/introduction-to-robotics-course
+	branch = main
 [submodule "hardware-modelling-course"]
 	path = hardware-modelling-course
 	url = https://github.com/dianapaula19/hardware-modelling-course
+	branch = main
 [submodule "operating-systems-course"]
 	path = operating-systems-course
 	url = https://github.com/dianapaula19/operating-systems-course
+	branch = main
